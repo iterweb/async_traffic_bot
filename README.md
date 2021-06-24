@@ -1,6 +1,6 @@
 # Async Traffic Bot
 I wrote this programme just for fun. It's async programme for rising website traffic.
-##How it work
+## How it work
 The script will generate random header, screen resolution, referrer and geolocation (need proxies). After going to site, bot will be try to get all links on the page and follow to the received random link, it can be  repeated from 2 to 5 times.
 ## Requirements
 * Chromium based browser
