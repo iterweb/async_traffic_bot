@@ -16,7 +16,7 @@ app = RateUp()
 app.mit_time = 40 # default 62 sec
 app.max_time = 120 # default 146 sec
 
-app.browser_path = 'full path to chrome browser'
+app.browser_path = 'full_path_to\chrome.exe'
 
 # generate headers list
 headers = app.generate_header_list(2000)
