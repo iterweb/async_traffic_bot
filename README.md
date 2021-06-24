@@ -26,7 +26,7 @@ proxy_list = app.get_proxy(
     socks5=r'path_to\socks5.txt',
     socks4=r'path_to\socks4.txt',
     http=r'path_to\http_https.txt',
-    unknown=r'path_to\unknown.txt'
+    unknown=r'path_to\unknown_protocol.txt'
 )
 print(proxy_list)
 
