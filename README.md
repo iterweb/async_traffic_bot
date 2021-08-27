@@ -53,4 +53,8 @@ app.change_referrer(expand='site-1.com, site-2.com')
 # show the list what is using to generate the header (referrer, cache_control, accept, accept_encoding, user_agent)
 app.show_header_data('referrer')
 ```
+## Additional tools (if you need)
+* [Proxy Grabber](https://github.com/pro100git/proxy_grabber)
+* [Proxy Checker](https://github.com/pro100git/proxy_checker)
+
 ***I am not responsible for the use of this script!***
