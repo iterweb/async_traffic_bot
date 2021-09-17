@@ -54,7 +54,7 @@ app.change_referrer(expand='site-1.com, site-2.com')
 app.show_header_data('referrer')
 ```
 ## Additional tools (if you need)
-* [Proxy Grabber](https://github.com/pro100git/proxy_grabber)
-* [Proxy Checker](https://github.com/pro100git/proxy_checker)
+* [Proxy Grabber](https://github.com/iterweb/proxy_grabber)
+* [Proxy Checker](https://github.com/iterweb/proxy_checker)
 
 ***I am not responsible for the use of this script!***
