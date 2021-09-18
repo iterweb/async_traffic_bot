@@ -53,6 +53,8 @@ app.change_referrer(expand='site-1.com, site-2.com')
 # show the list what is using to generate the header (referrer, cache_control, accept, accept_encoding, user_agent)
 app.show_header_data('referrer')
 ```
+## Donate
+If you want, you can [support](https://destream.net/live/iterweb/donate) me!
 ## Additional tools (if you need)
 * [Proxy Grabber](https://github.com/iterweb/proxy_grabber)
 * [Proxy Checker](https://github.com/iterweb/proxy_checker)
